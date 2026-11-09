@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<historico>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 2</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>245</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>125</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 05:53:09</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>35</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>35</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 05:48:05</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 3</nombreWorkout>
+                        
+        
+        <nivel>2</nivel>
+                        
+        
+        <tiempoTotalSegundos>350</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>200</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 05:46:09</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 2</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>245</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>125</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 05:15:51</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>35</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>35</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 05:11:25</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>38</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>195</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 18:05:29</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>195</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 18:32:23</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>315</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>195</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 18:54:22</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>195</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>30/10/2026 18:56:30</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 3</nombreWorkout>
+                        
+        
+        <nivel>3</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>110</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 00:49:23</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 10</nombreWorkout>
+                        
+        
+        <nivel>10</nivel>
+                        
+        
+        <tiempoTotalSegundos>380</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>290</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 01:08:06</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>124</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>195</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 01:57:06</fecha>
+                        
+        
+        <porcentajeCompletado>33.333333333333336</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>259</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>139</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:04:12</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>marcos@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>35</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>35</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:15:39</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>marcos@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>139</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:15:51</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>marcos@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>35</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>35</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:22:14</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 9</nombreWorkout>
+                        
+        
+        <nivel>9</nivel>
+                        
+        
+        <tiempoTotalSegundos>250</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>160</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:32:19</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 9</nombreWorkout>
+                        
+        
+        <nivel>9</nivel>
+                        
+        
+        <tiempoTotalSegundos>103</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>160</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:39:08</fecha>
+                        
+        
+        <porcentajeCompletado>50.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 9</nombreWorkout>
+                        
+        
+        <nivel>9</nivel>
+                        
+        
+        <tiempoTotalSegundos>50</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>35</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:41:13</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 10</nombreWorkout>
+                        
+        
+        <nivel>10</nivel>
+                        
+        
+        <tiempoTotalSegundos>70</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>55</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 02:44:28</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>marcos@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 4</nombreWorkout>
+                        
+        
+        <nivel>4</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>410</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:02:46</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 10</nombreWorkout>
+                        
+        
+        <nivel>10</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>290</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:03:05</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>10</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:08:08</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>10</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:11:59</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>84</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>64</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:13:42</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>5</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:19:41</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>5</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:21:34</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>79</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>64</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:21:40</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 03:37:00</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>lucia@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 6</nombreWorkout>
+                        
+        
+        <nivel>6</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>805</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 04:01:08</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>10</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 04:21:23</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>10</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 04:35:49</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>84</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>64</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 04:37:24</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 0</nombreWorkout>
+                        
+        
+        <nivel>0</nivel>
+                        
+        
+        <tiempoTotalSegundos>10</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>10</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 06:05:33</fecha>
+                        
+        
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+                    
+    
+    </workout>
+            
+    
+    <workout>
+                        
+        
+        <emailUsuario>ana@gym.com</emailUsuario>
+                        
+        
+        <nombreWorkout>Workout 1</nombreWorkout>
+                        
+        
+        <nivel>1</nivel>
+                        
+        
+        <tiempoTotalSegundos>0</tiempoTotalSegundos>
+                        
+        
+        <tiempoPrevistoSegundos>64</tiempoPrevistoSegundos>
+                        
+        
+        <fecha>09/11/2026 06:35:33</fecha>
+                        
+        
+        <porcentajeCompletado>0.0</porcentajeCompletado>
+                    
+    
+    </workout>
+        
+    
+    <workout>
+                
+        <emailUsuario>ana@gym.com</emailUsuario>
+                
+        <nombreWorkout>Workout 1</nombreWorkout>
+                
+        <nivel>1</nivel>
+                
+        <tiempoTotalSegundos>84</tiempoTotalSegundos>
+                
+        <tiempoPrevistoSegundos>64</tiempoPrevistoSegundos>
+                
+        <fecha>09/11/2026 08:31:03</fecha>
+                
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+            
+    </workout>
+    
+    <workout>
+        <emailUsuario>ana@gym.com</emailUsuario>
+        <nombreWorkout>Workout 2</nombreWorkout>
+        <nivel>2</nivel>
+        <tiempoTotalSegundos>88</tiempoTotalSegundos>
+        <tiempoPrevistoSegundos>63</tiempoPrevistoSegundos>
+        <fecha>09/11/2026 08:35:40</fecha>
+        <porcentajeCompletado>100.0</porcentajeCompletado>
+    </workout>
+</historico>
